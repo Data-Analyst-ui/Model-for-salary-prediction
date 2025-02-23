@@ -34,3 +34,7 @@ Model Type: Linear Regression, Random Forest.
 
 # 🤝 Contributing
 Contributions are welcome! If you’d like to improve the model, add new features, or optimize performance, feel free to submit a pull request.
+
+## For more information 
+Contact: +2547-43729799
+Email: peterndung676@gmail.com
